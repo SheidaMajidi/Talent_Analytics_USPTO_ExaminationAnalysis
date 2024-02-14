@@ -1,4 +1,4 @@
-# Talen_Analytics_USPTO_ExaminationAnalysis
+# Talent_Analytics_USPTO_ExaminationAnalysis
 
 
 ### Innovating Patent Analytics:  Harnessing AI & Behavioral Sciences to Transform USPTO Operations 
