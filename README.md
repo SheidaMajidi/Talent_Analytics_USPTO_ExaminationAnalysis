@@ -13,6 +13,7 @@ Our goals include:
 
 
 ### Dataset:
-The dataset compiles information on patent applications managed by the United States Patent and Trademark Office (USPTO).
+- The dataset compiles information on patent applications managed by the United States Patent and Trademark Office (USPTO).
+- Source: 
 https://www.uspto.gov/ip-policy/economic-research/research-datasets/patent-examination-research-dataset-public-pair
 
